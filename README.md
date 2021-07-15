@@ -1,1 +1,1 @@
-# This is just a simple project I did for one of my C++ programming classes as the final
+This is a project I did for my C++ programming class as the final project.
